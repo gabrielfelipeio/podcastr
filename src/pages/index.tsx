@@ -90,7 +90,7 @@ export default function Home({ latestEpisodes, allEpisodes }: HomeProps) {
                   </td>
                   <td>
                     <Link href={`/episodes/${episode.id}`}>
-                      <a >{episode.title}</a>
+                      <a>{episode.title}</a>
                     </Link>
                   </td>
                   <td>{episode.members}</td>

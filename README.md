@@ -1,7 +1,3 @@
-<div align="center">
-  <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
-</div>
-
 ## Podcastr
 
 [![Author](https://img.shields.io/badge/author-josepholiveira-8257E5?style=flat-square)](https://github.com/gabrielfelipeio)
@@ -12,7 +8,6 @@
   Podcastr is a platform built for podcast broadcasting.
 </h4>
 
-![Podcastr preview](.github/app-preview.png)
 
 ## Tecnologies
 
